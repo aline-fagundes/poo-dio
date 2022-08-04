@@ -19,8 +19,16 @@
 </p>
 
 <h2>Certificações</h2>
-<strong><a href="https://hermes.digitalinnovation.one/certificates/206723C6.pdf">Programação Orientação a Objetos</a></strong><br>
-<strong><a href="https://hermes.digitalinnovation.one/certificates/A0DF6B87.pdf">Praticando Orientação a Objetos com Java</a></strong><br>
-<strong><a href="https://hermes.digitalinnovation.one/certificates/FAF4B58E.pdf">Abstraindo um Bootcamp Usando Orientação a Objetos em Java</a></strong><br>
+
+<p>
+• <strong><a href="https://hermes.digitalinnovation.one/certificates/206723C6.pdf">Programação Orientação a Objetos</a></strong><br>
+CH:4 - Professor Thiago Leite <br>
+<br>
+• <strong><a href="https://hermes.digitalinnovation.one/certificates/A0DF6B87.pdf">Praticando Orientação a Objetos com Java</a></strong><br>
+CH:2 - Professor Rodrigo Tavares <br>
+<br>
+• <strong><a href="https://hermes.digitalinnovation.one/certificates/FAF4B58E.pdf">Abstraindo um Bootcamp Usando Orientação a Objetos em Java</a></strong><br>
+CH:2 - Professora Camila Cavalcante <br>
+</p>
 
 
