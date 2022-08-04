@@ -17,3 +17,10 @@
 <strong>	4.</strong> Aplicação de ferramentas que o Paradigma de Orientação a Objetos oferece; <br>
 <strong>	5.</strong> Criação de objetos através das classes criadas.<br>
 </p>
+
+<h2>Certificações</h2>
+<strong><a href="https://hermes.digitalinnovation.one/certificates/206723C6.pdf">Programação Orientação a Objetos</a></strong><br>
+<strong><a href="https://hermes.digitalinnovation.one/certificates/A0DF6B87.pdf">Praticando Orientação a Objetos com Java</a></strong><br>
+<strong><a href="https://hermes.digitalinnovation.one/certificates/FAF4B58E.pdf">Abstraindo um Bootcamp Usando Orientação a Objetos em Java</a></strong><br>
+
+
